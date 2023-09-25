@@ -14,4 +14,4 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox "CSS Flexbox")
 - [Media Queries](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [SCSS] (https://sass-guidelin.es/)
+- [SCSS](https://sass-guidelin.es/)
